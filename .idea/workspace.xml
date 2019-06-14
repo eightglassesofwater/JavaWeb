@@ -2,7 +2,368 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77f49761-cdd0-4b92-a83a-a8dca606bc46" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__ch_qos_cal10n_cal10n_api_0_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__cn_afterturn_easypoi_annotation_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__cn_afterturn_easypoi_base_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__cn_afterturn_easypoi_web_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_alibaba_druid_1_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_alibaba_fastjson_1_2_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_auth0_java_jwt_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_baomidou_mybatis_plus_2_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_2_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_baomidou_mybatis_plus_generate_2_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_baomidou_mybatis_plus_support_2_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_baomidou_mybatisplus_spring_boot_starter_1_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_belerweb_pinyin4j_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_joda_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jsonSchema_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_github_crab2died_Excel4J_2_1_4_Final2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_github_fge_btf_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_github_fge_jackson_coreutils_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_github_fge_json_patch_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_github_fge_json_schema_core_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_github_fge_json_schema_validator_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_github_fge_msg_simple_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_github_fge_uri_template_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_github_t3hnar_scala_bcrypt_2_10_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_03.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_google_code_findbugs_annotations_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_google_code_gson_gson_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_googlecode_libphonenumber_libphonenumber_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_squareup_okio_okio_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_github_robwin_assertj_swagger_0_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_github_robwin_markup_document_builder_0_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_github_robwin_swagger2markup_0_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_springfox_springfox_bean_validators_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_springfox_springfox_core_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_springfox_springfox_schema_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_springfox_springfox_spi_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_springfox_springfox_staticdocs_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_swagger_swagger_compat_spec_parser_1_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_swagger_swagger_core_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_swagger_swagger_models_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__io_swagger_swagger_parser_1_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__javax_mail_mailapi_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__joda_time_joda_time_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__ognl_ognl_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_ant_ant_1_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_poi_poi_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_shiro_shiro_cache_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_shiro_shiro_config_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_shiro_shiro_event_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_atteo_evo_inflector_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_55.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_jsoup_jsoup_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_mapstruct_mapstruct_1_0_0_CR1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_mindrot_jbcrypt_0_3m.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_mozilla_rhino_1_7R4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_projectlombok_lombok_1_16_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_reflections_reflections_0_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_slf4j_slf4j_ext_1_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_rest_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_redis_1_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_1_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_8_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_data_spring_data_rest_core_2_6_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_data_spring_data_rest_webmvc_2_6_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_0_23_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_restdocs_spring_restdocs_core_1_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_restdocs_spring_restdocs_mockmvc_1_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_spring_aop_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_spring_beans_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_spring_context_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_spring_core_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_spring_expression_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_spring_test_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_spring_tx_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_spring_web_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_springframework_spring_websocket_4_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/clover-common-jwt-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/annotation/AccessLimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/annotation/CurrentUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/annotation/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/annotation/ParamXssPass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/annotation/Pass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/annotation/ValidationParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/aspect/AbstractAspectManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/aspect/AccessLimitAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/aspect/AspectApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/aspect/AspectApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/aspect/ParamXssPassAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/aspect/RecordLogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/aspect/ValidationParamAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/FileUploadConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/ThirdPartyLoginHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/WebSocketConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/db/DruidConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/db/MpGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/db/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/db/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/db/TransactionalConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/thread/AsycTaskExecutorConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/thread/TaskExecutePool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/web/AllControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/web/ControllerAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/web/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/web/PassUrlScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/web/http/ResourcesConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/web/http/ResponseHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/web/http/ResponseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/web/http/ResponsePageHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/web/http/ResponsePageModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/web/http/RestTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/web/json/HttpMessageConverterConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/config/web/json/WebJsonConverterConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/controller/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/controller/ExcelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/controller/MenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/controller/NoticeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/controller/OperationLogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/controller/ResourceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/controller/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/controller/SmsVerifyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/controller/ThirdPartyLoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/exception/ParamJsonException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/exception/UnauthorizedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/shiro/CurrentUserMethodArgumentResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/shiro/JWTFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/shiro/JWTToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/shiro/MyRealm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/shiro/ShiroConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/java/com/clover/common/shiro/WebMvcConfigurer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/resources/config/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/resources/config/application-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/resources/config/constant.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/resources/config/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/resources/config/my.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/resources/config/thirdParty.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/resources/excelTemplate/map_template.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/resources/excelTemplate/normal_batch_sheet_template.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/resources/excelTemplate/normal_template.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/resources/excelTemplate/students_01.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-jwt-web/src/main/resources/excelTemplate/students_02.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/clover-common-persistence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/entity/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/entity/AdminToRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/entity/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/entity/Notice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/entity/OperationLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/entity/RoleToMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/entity/Roles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/entity/SmsVerify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/entity/UserThirdparty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/enums/OrderAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/enums/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/enums/OrderType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/enums/ProductOrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/enums/SampleDesignOrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/AdminMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/AdminToRoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/MenuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/NoticeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/OperationLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/RoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/RoleToMenuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/SmsVerifyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/UserThirdpartyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/xml/AdminMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/xml/AdminToRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/xml/MenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/xml/NoticeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/xml/OperationLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/xml/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/xml/RoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/xml/RoleToMenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/xml/SmsVerifyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/mapper/xml/UserThirdpartyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/model/OrderDetailModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/model/OrderModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/model/RoleModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/model/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/model/Student2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/model/Student2DateConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/model/Student2ExpelConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-persistence/src/main/java/com/clover/common/model/ThirdPartyUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/clover-common-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/IAdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/IAdminToRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/IMenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/INoticeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/IOperationLogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/IOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/IRedisService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/IRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/IRoleToMenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/ISmsVerifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/IUserThirdpartyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/SpringContextBeanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/handler/OrderHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/handler/ProductOrderHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/impl/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/impl/AdminToRoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/impl/MenuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/impl/MyWebSocketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/impl/NoticeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/impl/OperationLogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/impl/RedisServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/impl/RoleToMenuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/impl/SmsVerifyServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/impl/UserThirdpartyServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/processor/ActionProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-service/src/main/java/com/clover/common/service/processor/DeliverProductProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/clover-common-utils.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/ConcurrentHashMapCacheUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/base/BusinessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/base/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/base/NormalException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/base/PublicResultConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/base/SmsSendRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/base/SmsSendResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/BeanUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/BigDecimalUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/ComUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/DateTimeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/ExcelUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/FileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/GenerationSequenceUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/HttpUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/JWTUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/JsonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/MD5Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/Reflections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/SmsSendUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/excel/ExportExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/excel/ImportExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/excel/WriteExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-utils/src/main/java/com/clover/common/util/excel/annotation/ExcelField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-web-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-web-demo/src/main/java/com/clover/common/CloverCommonSpringbootApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/clover-common-web-demo/src/main/java/com/clover/common/po/AdCallbackResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clover-common-componment-parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,15 +372,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="57">
-                <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-              </first_editor>
-              <second_editor />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -111,20 +469,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3295082" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -132,15 +484,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,12 +505,9 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
